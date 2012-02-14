@@ -1,0 +1,913 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the_tit",
+				"the_title"
+			],
+			[
+				"invo",
+				"involve"
+			],
+			[
+				"in",
+				"involve_title"
+			],
+			[
+				"invol",
+				"involve_content"
+			],
+			[
+				"wp_rese",
+				"wp_reset_query"
+			],
+			[
+				"back",
+				"background	background-color: name"
+			],
+			[
+				"get_heade",
+				"get_header"
+			],
+			[
+				"fon",
+				"font	font: style variant weight size/line-height font-family"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"wp_ti",
+				"wp_title"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"wp",
+				"wppagenav	wppagenav"
+			],
+			[
+				"t",
+				"templatepath	Include Template File"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"h",
+				"htc"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"ie",
+				"ie8"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"co",
+				"color	color: rgb"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ui",
+				"ui-grid-a"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"pad",
+				"padding	padding: all"
+			],
+			[
+				"marin",
+				"margin	margin: all"
+			],
+			[
+				"pa",
+				"padding	padding: all"
+			],
+			[
+				"displ",
+				"display	display: inline"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"backgr",
+				"background	background-image: url"
+			],
+			[
+				"bac",
+				"background	filter: AlphaImageLoader [for IE PNGs]"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "timthumb.php",
+			"settings":
+			{
+				"buffer_size": 13124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 22375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 1492,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 1124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/wims.css",
+			"settings":
+			{
+				"buffer_size": 15065,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "images/sprite (1)/sprite.css",
+			"settings":
+			{
+				"buffer_size": 655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "images/sprite (1)/index.html",
+			"settings":
+			{
+				"buffer_size": 707,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 19519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sidebar.php",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.php",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "loop-page.php",
+			"settings":
+			{
+				"buffer_size": 750,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "loop-single.php",
+			"settings":
+			{
+				"buffer_size": 1926,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "single.php",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/evanshajed/ProjectResources/Typography resources/wfs/index.html",
+		"/Applications/MAMP/htdocs/John/SendMode/HTML5/SendMode-Web-Template/index.html",
+		"/Applications/MAMP/htdocs/John/SendMode/HTML5/SendMode-Web-Template/css/style.css",
+		"/Applications/MAMP/htdocs/John/SendMode/HTML5/SendMode-Web-Template/mobile/price.html",
+		"/Applications/MAMP/htdocs/John/SendMode/SendMode-Web-Template/mobile/index.html",
+		"/Users/evanshajed/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Applications/MAMP/htdocs/John/SendMode/SendMode-Web-Template/index.html",
+		"/Users/evanshajed/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/evanshajed/ProjectResources/BoilerplateSites/SendMode-Web-Template/humans.txt",
+		"/Users/evanshajed/ProjectResources/BoilerplateSites/SendMode-Web-Template/build/config/project.properties",
+		"/Users/evanshajed/ProjectResources/BoilerplateSites/SendMode-Web-Template/build/config/default.properties",
+		"/Users/evanshajed/ProjectResources/BoilerplateSites/SendMode-Web-Template/index.html",
+		"/Users/evanshajed/ProjectResources/HTML Framework/paulirish-html5-boilerplate-06dbc3e/.htaccess",
+		"/Users/evanshajed/ProjectResources/BoilerplateSites/SendMode-Web-Template/favicon.ico",
+		"/Users/evanshajed/ProjectResources/JQuery resources/jquery.mobile-1.0.1/jquery.mobile-1.0.1.css",
+		"/Applications/MAMP/htdocs/John/SendMode/Resources/slidedeck-1.3.2-lite-wordpress-1.4.5/SlideDeck LITE for jQuery/example-autoplay.html",
+		"/Applications/MAMP/htdocs/John/SendMode/Resources/Old Site Data/pagespeed_results.json",
+		"/Applications/MAMP/htdocs/Michaell/EvanMod/css/style.css",
+		"/Applications/MAMP/htdocs/Michaell/EvanMod/index.html",
+		"/Applications/MAMP/htdocs/Michaell/website/index.html",
+		"/Users/evanshajed/PhoneGap/FirstPGProject/pgjam/www/js/db.js",
+		"/Users/evanshajed/PhoneGap/FirstPGProject/pgjam/www/index.html",
+		"/Users/evanshajed/PhoneGap/FirstPGProject/pgjam/www/jquerymobile/jQuery.js",
+		"/Applications/MAMP/htdocs/Michaell/EvanMod/js/superfish.js",
+		"/Applications/MAMP/htdocs/Michaell/EvanMod/js/content_switch.js",
+		"/Applications/MAMP/htdocs/Michaell/EvanMod/js/cufon-replace.js",
+		"/Applications/MAMP/htdocs/Michaell/EvanMod/js/cufon-yui.js",
+		"/Applications/MAMP/htdocs/Michaell/EvanMod/css/reset.css",
+		"/Applications/MAMP/htdocs/Michaell/joe/css/style.css",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/style.css",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/attachment.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/header.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/css/style.css",
+		"/Applications/MAMP/htdocs/byevan/wp-content/themes/byEvan/comingsoon.php",
+		"/Applications/MAMP/htdocs/byevan/wp-content/themes/byEvan/header.php",
+		"/Applications/MAMP/htdocs/byevan/wp-content/themes/byEvan/index.php",
+		"/Applications/MAMP/htdocs/byevan/wp-content/themes/byEvan/css/style.css",
+		"/Applications/MAMP/htdocs/byevan/wp-content/themes/byEvan/style.css",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/single.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/comments.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/search.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/hsocial",
+		"/Applications/MAMP/htdocs/kindi/wp-content/themes/kindierock/gsearch.php",
+		"/Users/evanshajed/Library/Caches/TemporaryItems/.htaccess",
+		"/Applications/MAMP/htdocs/kindi/wp-content/themes/kindierock/style.css",
+		"/Applications/MAMP/htdocs/kindi/wp-content/themes/kindierock/index.php",
+		"/Users/evanshajed/Library/Application Support/Sublime Text 2/Packages/Wordpress.tmbundle/Snippets/wpPagenav.tmSnippet",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/author.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/archive.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/tags.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/category.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/404.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/footer.php",
+		"/Applications/MAMP/htdocs/iamwd/wp-content/themes/iamwd/sidebar.php",
+		"/Applications/MAMP/htdocs/kindi/wp-content/themes/kindierock/images/logo.png",
+		"/Applications/MAMP/htdocs/caruso/wp-content/themes/caruso/footer.php",
+		"/Applications/MAMP/htdocs/caruso/wp-content/themes/caruso/home_version_2.php",
+		"/Applications/MAMP/htdocs/caruso/wp-content/themes/caruso/functions.php",
+		"/Applications/MAMP/htdocs/caruso/wp-content/themes/caruso/404.php",
+		"/Users/evanshajed/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/evanshajed/Library/Caches/TemporaryItems/comingsoon.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wp_nav_menu",
+			"#access",
+			"menu",
+			"Accept-Encoding HTTP",
+			"h1.title",
+			".ie",
+			"data-theme",
+			"menu",
+			"data-",
+			"h1",
+			"background",
+			"aside",
+			"contact-img",
+			"btns",
+			"wrapper",
+			"box",
+			"content",
+			"overflow",
+			"wrapper",
+			"box",
+			"bix",
+			"content",
+			"470",
+			"box",
+			"height",
+			"block1",
+			"block",
+			"box",
+			"height",
+			"li",
+			"bg",
+			"bgSlider",
+			"box",
+			"bgS",
+			"cite",
+			"blockquote",
+			"pre",
+			".post",
+			"main",
+			"post",
+			"pre",
+			"a",
+			"a {",
+			"avatar",
+			"ava",
+			"comments",
+			"ncomments",
+			"comments",
+			"register",
+			"content",
+			"&raquo",
+			"meta-sep",
+			"entry-title",
+			"index",
+			"loop",
+			"entry-title",
+			"title",
+			"advertise",
+			"advertsie",
+			"entry-title",
+			"advertise",
+			"author",
+			"height",
+			"side",
+			"body",
+			"html, body",
+			"content",
+			"#side",
+			"main",
+			"body",
+			"boxy",
+			"side",
+			"a",
+			"#access",
+			"thematic",
+			"resgister_sidebar",
+			"<?php if ( function_exists('register_sidebar') )",
+			"admin_init"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#headerNav",
+			"nav#hnav",
+			"caruso"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1260,
+								1260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "timthumb.php",
+					"settings":
+					{
+						"buffer_size": 13124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13124,
+								13124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8694.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 22375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7399,
+								7399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6226.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 1492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1492,
+								1492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 1124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/wims.css",
+					"settings":
+					{
+						"buffer_size": 15065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11872,
+								11872
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3237.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "images/sprite (1)/sprite.css",
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								655,
+								655
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "images/sprite (1)/index.html",
+					"settings":
+					{
+						"buffer_size": 707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 19519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3446,
+								3446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1123.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "sidebar.php",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1146,
+								1146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "page.php",
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "loop-page.php",
+					"settings":
+					{
+						"buffer_size": 750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								750,
+								750
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "loop-single.php",
+					"settings":
+					{
+						"buffer_size": 1926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "single.php",
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mobile",
+				"mobile/css/mobile.css"
+			],
+			[
+				"",
+				"404.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"heade",
+				"header.php"
+			],
+			[
+				"home",
+				"home.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.58203125,
+	"status_bar_visible": true
+}
